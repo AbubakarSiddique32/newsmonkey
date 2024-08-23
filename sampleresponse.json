@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 54,
+  "articles": [
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Yahoo Finance",
+      "title": "Walmart’s $3.6 Billion JD.com Sale Fuels China Tech Slump - Yahoo Finance",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95MGJNa3RzRzZEV2dmQlZIOHpDa3dYS2VUMGlESUZmOEZfS2N3cmR5QkFmWFJXdTZFV2pJTGEwMnJpZ0IwdGZGNDJOU2Vzb1ZhZ2JGMWJSSmt6dS1WdDFsNWZsbkZCRmJ0ZEVfMkZuX0d5eTRHeXl5am9vTUZIdkE?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T04:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNBC",
+      "title": "Target will report earnings before the bell. Here's what to expect - CNBC",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pYi1sekFIbHdYWG5fUHJleUx2THpNTEZsallJbnYwc0xicEczWUxKMDhwbzBsRkdoeWVidWI3Vk44VzdwYzZ0TUJhMnpJUThLWVBUTkJVa1Z0RWsxa0E5YW5nNEVWNVdOZmR0X2JoWk5jd9IBd0FVX3lxTE1KLVhNbWlMNXA4Y2JfNHlDczd3LTRkbVRtcG0tcEZLRUFWVDIycDktUGw0a3hlSkdkS3JUZXl5dG4xaVNnTUg1Y0Q5V3k1Rm1JekFpVkdkMXREOHpqeElscERNZ3lCU0pfQjVPb3FNeFhBRlo5RGY4?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T04:01:01Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "Federal judge strikes down FTC rule banning noncompete agreements - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObndCb3psRDdTc2hYbkZTVmZmNDVETEVhV0NZQ0s4WmY2b182dERkakNvaUFGWGpLUDJWenotN3NuUHgxakEyZlhzRzUwNzV4Wk1yMUYtUHVlLVRWT2JCNlFWXzU4S3VnTWo4TlJKU0kxWWE3c25OanJDSVVhS0pJUXo3VEVTUHZDZGNz?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T03:15:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "NDTV",
+      "title": "Starbucks' New CEO To Supercommute 1,600 Km To Work On Corporate Jet - NDTV",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObF8zYXhmaG85SXpydzY1aDc3aThnRjhWMnI5QkxIbTJCQWZtZ3hHRlpYSXp5ZjRPS1h6Y3E4YUNXMWhzT3Q1RUl3TDVMb3JyUlFMZm5aYXJEZ1VlVGNNZEVfVEhRZ1NxSzVic2c2V0VYQ1F6VUJyRC13YVM1WVFmOEdFVWV6VnJXTy1JeTZtNGVsWXRMQXRsQVRMczYzY2g3WjZrNU1TTVJmZzjSAbMBQVVfeXFMTm9DaHdMTVNTNTlLUllnU01RNGtZUVNIZXJHQ2ZMNmw5Mkx0M3lKUkNocUxocFZNVExnb0o2UTQwWUlqSWtma0xUM0dSV1U5czhoQTQ2MUJteHhfbkJlM05lekZpMXVQaGY0cXhjaU1SM24yX05VbWRtS2hYOWVPZHdjbmJIbkdDM2lpSEpPTlR5TGtycWRXblp6OXM4dkRWZzliRlYzXzBBM2xVLVprdTZHOXc?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T02:24:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "CNN",
+      "title": "Europe just slashed tariffs on cars made by Tesla in China - CNN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIdkc2TmxqMW12M01PMjFfLUJUYV9mNEREQnBmNC1uLXhoa2FZZEVuaGxjZWk1ejdsT3JBTDkxVGkxbHBmeUVnUmo1R09ndE9SU0Z5M2EyQUphaEJxeEpFR19pSFlrbzFvLTM2QWQyRnJmUkI5a0phZ25B0gFwQVVfeXFMUElhazVYaUpzRlBsMDFtZkZhc0pvbDZkYW1vMmtUaWZMMHU3dVpydWNlelRlSkUwRU1nYmY2ZWozbEY0Z01OZmVreHZjTmN0Q09sQlNtdE9DakhQZ3NmT3pFV1JvdE5HdTB4WEdNcUtuWg?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T02:22:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fox Business",
+      "title": "Trump and Biden oppose Nippon-US Steel merger: What is VP Kamala Harris' position? - Fox Business",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTXYtTnBkM0t1aGo1Mmw3UVcyM3hDRWZwY0VTVEgyUUcySVd5TThiX3I0dHlZaV9VYTFMcGh0aklDRFkwTFd1TS1sRFExLU9odGdfc2NJSnNaQlNjbERWX09tZkJaRDdGQllZRUFaUkdwYms5dlpiUDNScTNheVZFVjFaTmVjZllQeFVWazdxOVNidXgyem53emVDVDBHZnZJYzd3ZNIBqgFBVV95cUxOMTRKUDNjYjd2ZEJ1b1gxUmxJS0xCMHFpMi0xRTRyNlJfZDRSNE9yREJrVUg2SVloZnp6N0trQmlmMFl5TVNORFUyYkdIcHVYend6WHlBYjZwOEhkdU5WUFNfY2J6anM4MDRIMk81RWdES1AwZGxBVVcySEJmUk5Xb1Y4bWJnYks1R21LRGF2RUtXcHItWVdPdUFpRE1HX3BKOWhYaG1JZVdQdw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T00:46:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "AMBCrypto News",
+      "title": "Analyst – 2 reasons why Ethereum’s downtrend is nearing its end - AMBCrypto News",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZ1Z3c1dnbUswTTk3OTAwOVhTRnN6U2VhcWhPZ1IwZEpUM3A1MGtUeDIwQWVyYkowNEVZSS1UcTIzOGNOZDdncUVWa3Zkb2I1R2h0TmtYcGJnRjItQ2t5LXUtY0JjdjVFcTBiNjJwT0FzRjFnUkduZjhCSnpQUGRTYVc4NHNxSkRwa0wzR25RbDM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T00:33:45Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Bloomberg",
+      "title": "A $2 Trillion Reckoning Looms as Ports Become Pawns in Geopolitics - Bloomberg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sUlJfLVJJNnlVaERsbFNRYTAzU0YtTUFSd1N5X3pPcVVzSDZMeEI1TFJSZTQzWXlocEZ1MUhNN3V3eXh2ODJWQ3JDMVMweXBNc1RyakVSaFhxOFlDaERoRE1DNmE4VmJpemNZd2ZvSFlUczB5bC04?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-21T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "BBC.com",
+      "title": "7-Eleven: Japan convenience store giant targeted by rival chain - BBC.com",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE44ejdLZVd2Ykx1S3RodjJZLUpEOHM0LWJ1Q1NoZ3BmTWVCOUxrMmRwcll3cUYzNXJSdzUzcDVrcDFzRmxiWTJHNGt5eWV2bDZqcklQVU1hWW1aZ9IBX0FVX3lxTE1kVFBsc2lydzZfM19nVGxlaTk4Z3F6QXpyTTAyV2ZaLTFZTWpndFNyeW82VTJ5Z3h1THoxWVVNdVNTTW02cEpfM1Z6TU55MVVPZzZJU2wyVEVhQnhvbG9N?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T23:33:40Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Associated Press",
+      "title": "Canadian freight trains could stop moving Thursday. If they do, many businesses will be hurt - The Associated Press",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSzd5NU90Nk1iTGpNaDZFeEVDQVF6MEtNWWVlT25XZF9yMW1wcV9qUnEyYTBnbnNNLXRPdjNWMk51VmdUUDhnRTNmLXVmUVdVSEI2VHFFVkxhaDIzd3dhLWNaMng0Y0x2QmJCYzdFM01Lei0wX2ZEYXRJX25XQUZ4OVAzT0YwOXBzQWNsN1U3ZHlLR2p4OWJfa2JramdKUk9yeFJtUDZyeXU5SllhLVpEUQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T23:12:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Bloomberg",
+      "title": "Asian Stocks to Fall as US Rally Takes a Breather: Markets Wrap - Bloomberg",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbjN2WlJVSnRQRzY1TTdqYzV5Y2dsVXRXcFRTUFdiZzRtbENqcHdlcTNVWm5IZC1HUWdxcldqWTJ3b1N0Q2xKanZJdjAzbTRJeGRBZkUwZEpVM1BVREpEY1RaUHJXUFBJOG43Q05nczlhTVU3aGdMYmYyR0pCVF9IYUliNUpqZ19QVUxycUIxNjJYYnRM?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T22:36:04Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "TheStreet",
+      "title": "Lowe’s reveals grim outlook on future sales amid concerning trend - TheStreet",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHctWGtlUWtWaTdQdVFLTXFLcWVrdlVFOG9hVEEySmVVYkY5WHpKVE5peU9OWE1sa2w4U1FsSEZsVllqdm03QjROQ2hybHp3WWxKS20tSlNDU1hLMUtZdDFiUUl5OVl4SnJYNy1ZS1VCZDNJM1NJeHdfNy10SXBVZWY1UERWa1dZeWZTQngzLWZzeGx4TTdiaWFOTEtuZw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T22:11:39Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Fox Business",
+      "title": "BMW recalls 720K vehicles with risk of water pump connector short circuit - Fox Business",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZEVyNzJYRlZLc0hFMFBHaEFJUkpaenZxVl9yNFBfeTFMMElEWDZVY1VlZlRhT1QyMWVoX0w0ZWx3b3o0ekpKUzNZakNHQVpudHhmX1R2VzJWX1lIQndFY0R5TXBUWjVfbVg3OHpuM19YTkFYRG5KZjNTQ2lzV3J5Z21KX1RGWTVhUE9welBUeWpLMWpSVEN3enBGSTB2MUpGcUFF0gGoAUFVX3lxTE9OSUhqT2FPcmxBRHNCeHVWSXVJOHpNcGxXUWlNaTVTb05yQWg2eUJOdEttcXlFNnNRSkhWMHlEY1NMWTF6dGxBdkRWRlhzS2pmSFF1SVZMYlgxQmVOUDBwQmFLZ3kxcUpDRTNCZENtTkprOWtSalpiSzlJMVNWTUZPem1uWXNXSHhMMFZqcjdnZXE2ZWx3ZVZCYzlfSlBnZ05QcEpScnN3RQ?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T22:04:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Verge",
+      "title": "Google has to face a class action lawsuit over Chrome’s data collection - The Verge",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHFkek1sN1EtS3ItTW4xeFZzS0JZZmp4QVVUSTN0dlpxU1l4Ynh5WnpKcjBXbFR3MWtUWGo3QmJuVGtoWWxfZ1hnb0F1NEpKMk5UeW9rOFBIaUNFdmpBWGtOSGt6Tjl6bGs1c0s1eDNneU9TOEZGdUQzaUl3Z3NKRHA4U1VXX1FtdXF5UW9VV1dpMl9rNkhyVlNaUUZzNGZq?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T21:54:12Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "MacRumors",
+      "title": "Major 'National Public Data' Leak Worse Than Expected With Passwords Stored in Plain Text - MacRumors",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVT0w4MVpRQXliSktURUV4TlJrR2p2NkZfZlZpeDhvdDN1UDNuSWZ6MHFWM3BKRjJacGVncFhNZUF2UWFUeTZQOE1ZdXhONkt5LTBfTmlMMEZUSGQySWlBblVwc3ctMHZIY3dEQmN1MA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T21:42:05Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Al Jazeera English",
+      "title": "Trump Media shares hit record low as race tightens for former US president - Al Jazeera English",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbU1WVVdWM25SZ2cyVi1KbEVNNmJtWlVrazhFREMxTUxZTk95TW50anVOSjVRSjVBeHByUWt5YzFiTFd0eEdkRkFGWFhYSnlXV3RWSDVJempUeW02UVNIYjE4YTZ6aTVXbU1DdGZ1M3BueEZsSzk0R3dsTWctbTZPR2ZzclRGUkxGRzJBUWc0YklOeVdNWXAwLTZnRHQ3VUt1YzFhTjRzQThUdmxQOFE3TDM4dHlDTGhkU2fSAb8BQVVfeXFMTldxY1RUdGpkdzlDbUNJaVRyTk1ZVkh3X2VLdk54WVR2dHhZR2tqUTFRRzFJMXRZUG1SU2tNRnlwN04tYU8xYWJaVDI1NFgtclJUUWctVGt4bU9jQkJGV0ZiTFN3S2JkSEFGN3phUFY0Z0NxcDZ6Tm1yX2luTVVneUEtOWQxbWU1MmJSaWtqQ0FYa2k4UG9UWng4dVBYWUxfcXF3eDM1TjNBd3gtVUo3TWItRGFQQzFNOFp1ZHphUlU?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T21:35:38Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Investopedia",
+      "title": "These Two Stocks Plunged After Eli Lilly Drug Study Showed Diabetes Promise - Investopedia",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMHVwZDQteTl0N05IdWJTckhkSy15RWlORUpjYnR6VXU1azJQSXVGZkUxR3NlaDFmb2tNR1JlSE1JWEhqQVdTRmdCakxfUENEODh2OTIyaVVJdkl1YU9aNnNlSFNsZlE5ZVZ4d2lBbXIwODRkY3B0eHVoaWpCekxCaEgyUU9HMUtxSUdsWGdsT3kta0JsNUFtNzMxblZwb0tOWmVmdzJqWGlUT09wQXhYLXRR?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T21:21:50Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The New York Times",
+      "title": "Boeing Grounds 777-9 Test Planes in Latest Setback - The New York Times",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5hSTQ5SnlZT3l1Zy1uT29iZnFkWktFTHVzMGxhV2szWGJsdVpPYTRnTDg1SDhyUV9MaDUwMlM3cDNISmNvSzh1OTZ4clpxWVE5NmRtRmd4WFZnajk0ZUE3MnZLaDZxRnd0YTY5S0Z6TXVRRklfUjF3cA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T21:18:58Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "Barron's",
+      "title": "Nvidia Stock Drops Ahead of Earnings, Ending Longest Win Streak Since March - Barron's",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVlRUVc4aENmNHhwd0xscnV0TEtiZTBxNWc4dU4wT29NYmljQkV5cmZnX3FlZnBNeXRLLTYtWWN3R3FsWk1TeU5oeDQ4LUthRFVLM25DYmJZNDN2TU9yMUUwaWpkMk80VmRHeE1qelpWTHh1RGhIazgzUGpuWk1Pdw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T21:07:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "google-news",
+        "name": "Google News"
+      },
+      "author": "The Washington Post",
+      "title": "Alaska, Hawaiian Airlines merger clears antitrust hurdle, airline says - The Washington Post",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUE9UN1l5NlktSDZNZTNvYTJqdmY3UzJFU3E2LVVHUENBaUl3Z3N6TnljNE9SSWoyZ2NjRFU3dDV2d0NiNVA4TzlyWU84aU5PZnRFV3dyZ2p1TDNvT1pxSW1maHBYU1UtZUFMcy03LWVRMVZmUjJsc0ZVbko3ZS1fT1NWZXVENEdWSi1rdA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-08-20T20:43:50Z",
+      "content": null
+    }
+  ]
+}
